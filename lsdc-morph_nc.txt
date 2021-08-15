@@ -45,7 +45,6 @@
 41	hafft	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 42	?	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/2
 # text = Wo nue wat sachte! wat hebbe wy denn van de Ryks Armedie gesegt? 
@@ -65,7 +64,6 @@
 14	gesegt	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 15	?	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/3
 # text = weht wie doch nergends van.
@@ -75,7 +73,6 @@
 4	nergends	_	ADV	_	_	_	_	_	_
 5	van	_	ADP	_	_	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/4
@@ -87,7 +84,6 @@
 3	nich	_	PART	_	PartType=Neg	_	_	_	_
 4	weten	_	VERB	_	VerbForm=Inf	_	_	_	_
 5	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/5
@@ -111,14 +107,12 @@
 16	gebracht	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 17	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/6
 # text = Wat gedruckt? 
 1	Wat	_	PRON	_	Gender=Neut|PronType=Int	_	_	_	_
 2	gedruckt	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 3	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/7
@@ -154,7 +148,6 @@
 29	gedrücket	_	VERB	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_	_
 30	hebben	_	AUX	_	VerbForm=Inf	_	_	_	_
 31	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/8
@@ -194,7 +187,6 @@
 33	belecket	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 34	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/9
 # text = Wo luden denn de Dinge, kan man denn nicht wat darvan hören und tho weten kriegen?
@@ -216,7 +208,6 @@
 16	weten	_	VERB	_	VerbForm=Inf	_	_	_	_
 17	kriegen	_	VERB	_	VerbForm=Inf	_	_	_	_
 18	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/10
@@ -240,7 +231,6 @@
 17	entfallen	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 18	yß	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 19	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/11
@@ -297,7 +287,6 @@
 48	mehr	_	ADV	_	_	_	_	_	_
 49	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/12
 # text = Wat schull ick dat gesegt hebben?
@@ -308,7 +297,6 @@
 5	gesegt	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 6	hebben	_	AUX	_	VerbForm=Inf	_	_	_	_
 7	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/13
@@ -322,7 +310,6 @@
 7	Namen	_	NOUN	_	Case=Acc,Dat|Gender=Masc	_	_	_	_
 8	gedahn	_	VERB	_	_	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/14
@@ -400,7 +387,6 @@
 71	predigen	_	VERB	_	VerbForm=Inf	_	_	_	_
 72	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/15
 # text = Schrieff Schelm schrieff! 
@@ -408,7 +394,6 @@
 2	Schelm	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 3	schrieff	_	VERB	_	Inflection=Strong|Mood=Imp|Number=Sing	_	_	_	_
 4	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/16
@@ -424,7 +409,6 @@
 9	Landtsmann	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 10	wehsen	_	VERB	_	VerbForm=Inf	_	_	_	_
 11	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/17
@@ -448,7 +432,6 @@
 17	geschreven	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 18	hefft	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 19	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/18
@@ -475,7 +458,6 @@
 20	Armaker	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 21	?	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/19
 # text = Wy weten nu leder Gott geklaget, so lang als wie von Schweden gehört hebben, wol, wat Soldaten syn. 
@@ -501,7 +483,6 @@
 20	Soldaten	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
 21	syn	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 22	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/20
@@ -556,7 +537,6 @@
 48	uhtropen	_	VERB	_	VerbForm=Inf	_	_	_	_
 49	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/21
 # text = Schull he unsen Landesförsten sprecken, he schullt ehm in de Ogen seggen, dat he unde synes geliken de rechten Katten und RyksArmaker weren. 
@@ -588,7 +568,6 @@
 25	RyksArmaker	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
 26	weren	_	VERB	_	Inflection=Strong|Mood=Sub|Number=Plur|Person=3|Tense=Past	_	_	_	_
 27	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/22
@@ -692,7 +671,6 @@
 97	geföret	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 98	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/23
 # text = Wat wetstu van Stokholm tho seggen, du magst wol dien Dage Stokholm mit Ogen nich gesehen hebben.
@@ -717,7 +695,6 @@
 18	gesehen	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 19	hebben	_	AUX	_	VerbForm=Inf	_	_	_	_
 20	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/24
@@ -872,7 +849,6 @@
 148	freden	_	NOUN	_	Gender=Masc|Number=Sing	_	_	_	_
 149	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/25
 # text = Denn idt waerde nich lange, so kreeg mien gode Juncker, met andern RicksArmackern und Röfern sienen rechten Lohn, Ick averst leve noch, und kan davan seggen, wo idt wandages in Schweden unde Stockholm thostund.
@@ -916,7 +892,6 @@
 38	Stockholm	_	PROPN	_	Number=Sing	_	_	_	_
 39	thostund	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 40	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/26
@@ -1007,7 +982,6 @@
 84	Löwen	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
 85	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/27
 # text = Dat mag wol eent van den täwen sien, dat man nich schal targen, unde asse dien Landtman segt, sehr ümb sick langen plegt.
@@ -1038,7 +1012,6 @@
 25	langen	_	VERB	_	VerbForm=Inf	_	_	_	_
 26	plegt	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 27	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/28
@@ -1076,7 +1049,6 @@
 31	möge	_	AUX	_	Inflection=Strong|Mood=Sub|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 32	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/29
 # text = Du bist ehn Dohr, wente de Löwe iß nich de Düvel, davan de Karkheer prediget, idt iß de König van Schweden.
@@ -1105,7 +1077,6 @@
 23	van	_	ADP	_	AdpType=Prep	_	_	_	_
 24	Schweden	_	PROPN	_	Number=Sing	_	_	_	_
 25	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/30
@@ -1158,7 +1129,6 @@
 46	Leven	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
 47	noch	_	ADV	_	_	_	_	_	_
 48	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/31
@@ -1243,7 +1213,6 @@
 78	höret	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 79	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/32
 # text = Dat ick und all miene Landslüde van Schweden und ehrer RycksArmedie gesegt hebben, wat vör ehn schlöckerich Vndehrt datsülvige Ding wehre, wo ydt nist mede uht sienen Lap unde LumpenLande gebrocht, sündern alles in Dütßland weggefreten hefft, dat yß wahr, un dat gestah ick noch.
@@ -1298,7 +1267,6 @@
 49	ick	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 50	noch	_	ADV	_	_	_	_	_	_
 51	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/33
@@ -1366,7 +1334,6 @@
 60	Fryheit	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 61	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/34
 # text = In dienes Landtmannes Bursprack warth datselbige van der Dütschen RicksArmedie uthgelegt, denn da steit geschreven, dat sück Ding böse van Natur iß, glyck eenen Sack full junger Wülffe, worunder de beste de schlimmeste unde de schlimmeste de beste.
@@ -1414,7 +1381,6 @@
 42	beste	_	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Inflection=Weak|Number=Sing	_	_	_	_
 43	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/35
 # text = Hebbe ick die nich tho vöer gesegt, dat de Kukuk men sienen egnen Namen uth ropt, ick blive darby un seg ydt noch, dat suck undeert de Schwedisch RicksArmedie iß.
@@ -1453,7 +1419,6 @@
 33	iß	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 34	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/36
 # text = Wo idt ümb sick gereten unde gespleten hefft, mag ick nich wietlüftig beschrieben.
@@ -1473,7 +1438,6 @@
 14	beschrieben	_	VERB	_	VerbForm=Inf	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/37
 # text = Gy in Pamern und all de Lüde in Dütsland können davan singen unde seggen.
@@ -1492,7 +1456,6 @@
 13	unde	_	CCONJ	_	_	_	_	_	_
 14	seggen	_	VERB	_	VerbForm=Inf	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/38
@@ -1636,7 +1599,6 @@
 137	kan	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 138	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/39
 # text = Disse Schwedische äverst von ener dütschen Harmonigen uhtgebröeder Kukuk segt, dat unse gnädige Grohtvader Käyser den Kahrförsten eenen grothen Breeff den man Kakelkikulation nöhmet, gegeven hefft.
@@ -1670,7 +1632,6 @@
 28	hefft	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 29	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/40
 # text = Glövestu wat de Schwedische Kukuk kukuleret?
@@ -1683,7 +1644,6 @@
 6	Kukuk	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 7	kukuleret	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 8	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/41
@@ -1786,7 +1746,6 @@
 96	jagen	_	VERB	_	VerbForm=Inf	_	_	_	_
 97	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/42
 # text = Dat were man even recht, so wüste wie wat de Spadenachte, edder de Stötenacke bedüdet, da sittet Em man, dat wiel he süht, dat de gnädige Kayser und Köhrförst Em nicht lenger thosehen können, sündern sienen Anschlag watverpurten, so verdrüt em dat, wart quat und will nich mehr mit spählen, segt de Käyser, und Kohrförst, handeln wedder Kakelkikulation und Gerandige.
@@ -1864,7 +1823,6 @@
 72	Gerandige	_	NOUN	_	_	_	_	_	_
 73	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/43
 # text = Latet unsen Heren winnen, so wart he lustig.
@@ -1878,7 +1836,6 @@
 8	he	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	lustig	_	ADJ	_	Degree=Pos	_	_	_	_
 10	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/44
@@ -1907,7 +1864,6 @@
 22	gekoltzet	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 23	hefft	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 24	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/45
@@ -1956,7 +1912,6 @@
 42	Levelang	_	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
 43	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/46
 # text = Man schull woll nich väle davan seggen, man ick kant glyckwol nich verschmarten und unbeantwohrtet lathen, wat sock ehn lichtferdig Schelm, de doch in Dütsland getagen unde gebahren, van dem Keyser und unsen gnädigen Heeren schrieven darff.
@@ -2004,7 +1959,6 @@
 41	schrieven	_	VERB	_	VerbForm=Inf	_	_	_	_
 42	darff	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 43	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/47
@@ -2123,7 +2077,6 @@
 112	Churland	_	PROPN	_	Number=Sing	_	_	_	_
 113	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/48
 # text = Wen de Mecklenbörgische edder Schwedische SchietDüvel wüste, wat ehn Körförste were, he schölle wol anders spreken; Vnse gnädige Heer iß een Kohrförst, unde bedarf kenes Oekelnahmes.
@@ -2158,7 +2111,6 @@
 29	kenes	_	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Neg	_	_	_	_
 30	Oekelnahmes	_	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
 31	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/49
@@ -2198,7 +2150,6 @@
 33	Schweden	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
 34	?	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee
 # sent_id = 1659_MKB_eines_hinterpommerischen_und_mecklenburgischen_pauren_gesprach_wegen_des_newausgegebenen_und_in_druck_ergangenen_gesprachs_von_der_reichs-armee/50
 # text = Vorhen so sede de Schwedische Generalupschnider unde pralissimus Schlippenbach man noch van der halven, de Mecklenbörgische edder Schwedische Vnflaht secht gahr van der gantzen Welt.
@@ -2230,7 +2181,6 @@
 26	Welt	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
 27	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/1
 # text = De Platt-Dütsche; een Geschrywe, dat de Hooh-Dütschen eene Wochenschrift heeten.
@@ -2247,7 +2197,6 @@
 11	Wochenschrift	_	NOUN	_	Case=Acc|Foreign=Yes|Gender=Fem|Number=Sing	_	_	_	_
 12	heeten	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/2
@@ -2283,7 +2232,6 @@
 29	blywen	_	VERB	_	VerbForm=Inf	_	_	_	_
 30	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/3
 # text = An myne Leeser!
@@ -2291,7 +2239,6 @@
 2	myne	_	DET	_	Case=Acc|Gender=Masc|Number=Plur|Number[psor]=1|Person[psor]=1|Poss=Yes|PronType=Prs	_	_	_	_
 3	Leeser	_	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
 4	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/4
@@ -2317,7 +2264,6 @@
 19	gegeeten	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 20	hedden	_	AUX	_	Inflection=Weak|Mood=Sub|Number=Plur|Person=3|Tense=Past	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/5
@@ -2360,7 +2306,6 @@
 36	weerden	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 37	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/6
 # text = See laaten et sick recht sur werden, eere Geleersaamkeet, dee doch mängmaal nich wyt heer iß, ut toposunen.
@@ -2388,7 +2333,6 @@
 21	to	_	PART	_	PartType=Inf	_	_	_	_
 22	posunen	_	VERB	_	VerbForm=Inf	_	_	_	_
 22	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/7
@@ -2437,7 +2381,6 @@
 41	Praalery	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	_
 42	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/8
 # text = Ick, up myne Part, will uprichtiger syn.
@@ -2452,7 +2395,6 @@
 9	syn	_	AUX	_	VerbForm=Inf	_	_	_	_
 10	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/9
 # text = Ick will mynen Leesern nüscht vörschwaddroneeren.
@@ -2463,7 +2405,6 @@
 5	nüscht	_	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	_	_	_	_
 6	vörschwaddroneeren	_	VERB	_	VerbForm=Inf	_	_	_	_
 7	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/10
@@ -2484,7 +2425,6 @@
 14	utgiwt	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 15	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/11
 # text = Dee Lüde hebben jo Oogen.
@@ -2494,7 +2434,6 @@
 4	jo	_	ADV	_	_	_	_	_	_
 5	Oogen	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/12
@@ -2513,7 +2452,6 @@
 12	iß	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Tense=Pres	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/13
 # text = Ick will nüscht verspreecken, wat ick nich holen kan.
@@ -2528,7 +2466,6 @@
 9	holen	_	VERB	_	VerbForm=Inf	_	_	_	_
 10	kan	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 11	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/14
@@ -2568,7 +2505,6 @@
 32	verdeenen	_	VERB	_	VerbForm=Inf	_	_	_	_
 33	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/15
 # text = Wer my dat öwel neehmen will, der mag sick alleen by dee Näse krygen, un sick fraagen; ow he nich öwerall synen Vordel sökt?
@@ -2600,7 +2536,6 @@
 26	Vordel	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
 27	sökt	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 28	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/16
@@ -2685,7 +2620,6 @@
 77	mut	_	Aux	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 78	?	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/17
 # text = Ick bin froh, datt my unser Herr Gott to eenen hübschen, braawen Mann geföhrt het, de my myne Bläder, goot betaalt.
@@ -2715,7 +2649,6 @@
 24	goot	_	ADJ	_	Degree=Pos	_	_	_	_
 25	betaalt	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/18
@@ -2747,7 +2680,6 @@
 25	verdeenen	_	VERB	_	VerbForm=Inf	_	_	_	_
 26	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/19
 # text = Un wat dat vörneemste iß – ick deerw nich, aß een Faßbinner up dee Straate herümloopen.
@@ -2769,7 +2701,6 @@
 16	Straate	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case[regional]=Acc
 17	herümloopen	_	VERB	_	VerbForm=Inf	_	_	_	_
 18	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/20
@@ -2793,7 +2724,6 @@
 17	schmöken	_	VERB	_	VerbForm=Inf	_	_	_	_
 18	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/21
 # text = Nu weeten myne Leeser, wat my angedreewen het, diße Bläder to schrywen.
@@ -2813,7 +2743,6 @@
 14	schrywen	_	VERB	_	VerbForm=Inf	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/22
 # text = Jck holl't met de Waarheet.
@@ -2826,7 +2755,6 @@
 6	de	_	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	Case[regional]=Acc
 7	Waarheet	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	Case[regional]=Acc
 8	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/23
@@ -2841,7 +2769,6 @@
 8	den	_	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 9	Dag	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
 10	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/24
@@ -2897,7 +2824,6 @@
 49	laate	_	NOUN	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 50	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/25
 # text = See wörden my vör eenen Grootpraaler hollen un keen Vertruen up my setten.
@@ -2915,7 +2841,6 @@
 12	my	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 13	setten	_	VERB	_	VerbForm=Inf	_	_	_	_
 14	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/26
@@ -2951,7 +2876,6 @@
 29	schrywen	_	VERB	_	VerbForm=Inf	_	_	_	_
 30	werde	_	AUX	_	Inflection=Strong|Mood=Inf|Number=Sing|Person=1|Tense=Pres	_	_	_	_
 31	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/27
@@ -2994,7 +2918,6 @@
 36	weerd	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 37	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/28
 # text = So mutt ick denn man dryst van de Leewer wegreeden.
@@ -3010,7 +2933,6 @@
 10	wegreeden	_	VERB	_	VerbForm=Inf	_	_	_	_
 11	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/29
 # text = De Platt-Dütsche iß keen junger Kykindewelt.
@@ -3021,7 +2943,6 @@
 5	junger	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Inflection=Strong|Number=Sing	_	_	_	_
 6	Kykindewelt	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 7	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/30
@@ -3038,7 +2959,6 @@
 10	blöhen	_	VERB	_	VerbForm=Inf	_	_	_	_
 11	geseehn	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 12	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/31
@@ -3074,7 +2994,6 @@
 29	hedde	_	AUX	_	Inflection=Weak|Mood=Sub|Number=Sing|Person=3|Tense=Past	_	_	_	_
 30	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/32
 # text = He het sick halw ut Nooth, un halw ut eegenem Andrywen bemöht, dat höchste Weesen, dee Menschen, dee Natur un sick selwst kennen to leeren.
@@ -3108,7 +3027,6 @@
 28	to	_	PART	_	PartType=Inf	_	_	_	_
 29	leeren	_	VERB	_	VerbForm=Inf	_	_	_	_
 30	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/33
@@ -3164,7 +3082,6 @@
 49	kan	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 50	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/34
 # text = He iß, wenn et em ook glyck towylen kunträr geeht, immer upgerümt; un he mag geern, wenn et sick halweege schickt, in allen Eehren een Beetken Körtwyl drywen.
@@ -3202,7 +3119,6 @@
 32	Körtwyl	_	NOUN	_	Gender=Fem|Number=Sing	_	_	_	_
 33	drywen	_	VERB	_	VerbForm=Inf	_	_	_	_
 34	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/35
@@ -3257,7 +3173,6 @@
 48	weerd	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 49	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/36
 # text = Hyrut könen syne Leeser lycht erraaden wat see hyr to vermooden hebben.
@@ -3274,7 +3189,6 @@
 11	vermooden	_	VERB	_	VerbForm=Inf	_	_	_	_
 12	hebben	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/37
@@ -3313,7 +3227,6 @@
 32	doohn	_	VERB	_	VerbForm=Inf	_	_	_	_
 33	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/38
 # text = He mutt keen dumm Tüg henschmeeren – un dat weerd ick braaw blywen laaten.
@@ -3332,7 +3245,6 @@
 13	blywen	_	VERB	_	VerbForm=Inf	_	_	_	_
 14	laaten	_	VERB	_	VerbForm=Inf	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/39
@@ -3384,7 +3296,6 @@
 45	wickelten	_	VERB	_	Inflection=Weak|Mood=Sub|Number=Plur|Person=3|Tense=Past	_	_	_	_
 46	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/40
 # text = Nee, dat sall (met Gottes Hülpe!) nich gescheehen.
@@ -3401,7 +3312,6 @@
 11	nich	_	PART	_	PartType=Neg	_	_	_	_
 12	gescheehen	_	VERB	_	VerbForm=Inf	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/41
@@ -3490,7 +3400,6 @@
 80	weerden	_	AUX	_	VerbForm=Inf	_	_	_	_
 81	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/42
 # text = Dat geewe de leewe Gott!
@@ -3500,7 +3409,6 @@
 4	leewe	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Inflection=Weak|Number=Sing	_	_	_	_
 5	Gott	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 6	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/43
@@ -3552,7 +3460,6 @@
 45	weerden	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 46	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/44
 # text = Ick wull'et, fast raaden.
@@ -3565,7 +3472,6 @@
 6	fast	_	ADV	_	_	_	_	_	_
 7	raaden	_	VERB	_	VerbForm=Inf	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/45
@@ -3586,7 +3492,6 @@
 13	setten	_	VERB	_	VerbForm=Inf	_	_	_	_
 12	weeten	_	VERB	_	VerbForm=Inf	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/46
@@ -3635,7 +3540,6 @@
 42	het	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 43	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/47
 # text = De Annre weerd glöwen, datt ick nich veel Grütte im Kopp hebben mutt, wyl myne Schrywaart nich so hochbeenig, aß see in de hüdgen Welt syn sall, un nich so bunt iß, aß eene Jökelpuppe.
@@ -3683,7 +3587,6 @@
 41	Jökelpuppe	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 42	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/48
 # text = De Drüdde weerd seggen: „Wat dat vör Streeke sind! Midden in grooten Berlin eene plattdütsche Schrift heruttogeewen; un den fynen, Geschmack to verdeerwen?
@@ -3719,7 +3622,6 @@
 17	to	_	PART	_	PartType=Inf	_	_	_	_
 18	verdeerwen	_	VERB	_	VerbForm=Inf	_	_	_	_
 19	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/49
@@ -3765,7 +3667,6 @@
 39	sabbern	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 40	?	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten
 # sent_id = 1772_MAR_de_platt-dutsche_een_geschrywe_dat_dee_hooch-dutschen_eene_wochenschrift_heeten/50
 # text = Mut dat Ungemach noch eenen Mann heerföhren, de sick understeeht, plattdütsche Böker to schrywen?
@@ -3786,7 +3687,6 @@
 15	to	_	PART	_	PartType=Inf	_	_	_	_
 16	schrywen	_	VERB	_	VerbForm=Inf	_	_	_	_
 17	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/1
@@ -3812,7 +3712,6 @@
 19	in	_	ADP	_	AdpType=Prep	_	_	_	_
 20	Dithmarschen	_	PROPN	_	Number=Sing	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/2
@@ -3840,7 +3739,6 @@
 20	Kiel	_	PROPN	_	Number=Sing	_	_	_	_
 21	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/3
 # text = Kiel, in de academische Bookhandlunk verlegt.
@@ -3853,13 +3751,11 @@
 7	verlegt	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/4
 # text = 1817.
 1	1817	_	NUM	_	_	_	_	_	_
 2	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/5
@@ -3867,7 +3763,6 @@
 1	De	_	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 2	vörrehd	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 3	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/6
@@ -3923,7 +3818,6 @@
 49	daarto	_	ADV	_	_	_	_	_	_
 50	hehr	_	ADV	_	_	_	_	_	_
 51	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/7
@@ -3983,7 +3877,6 @@
 53	hehrkomst	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
 54	hett	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 55	:	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/8
@@ -4053,7 +3946,6 @@
 63	is	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 64	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/9
 # text = Daarto komt un tom deel folgt daaruut de groote ungloof, oder as man et nööm will, de mangel an fraamigkeit, religiosität im landn, an waare leef tom globm, dat man dat geistliche arfdeel, wat unsen vöröllern sweet un bloot kostet hett, nich fast hooln mag.
@@ -4117,7 +4009,6 @@
 55	mag	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 56	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/10
 # text = So segt de Apostel Paulus Röm. 10, 14:
@@ -4132,7 +4023,6 @@
 9	,	_	PUNCT	_	_	_	_	_	_
 10	14	_	NUM	_	_	_	_	_	_
 11	:	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/11
@@ -4187,7 +4077,6 @@
 45	beknütt	_	VERB	_	Aspect=Perf|VerbForm=Part	_	_	_	_
 46	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/12
 # text = Man ward seggn, ick äwerdryf – laat se! – de nich van buutn de welt ansücht sondern van binn un mit de minschen sprickt, wen se ehr alldaaschtüüg anhebt, de weet bescheed un ward mi volboordn.
@@ -4233,7 +4122,6 @@
 40	volboordn	_	VERB	_	VerbForm=Inf	_	_	_	_
 41	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/13
 # text = Wen et nu aber an freud feilt to dat freudenfesd, so muss wi de saak van en anner syt anseen, dat nämlich de freud schall maakt un hervörroopm wardn.
@@ -4269,7 +4157,6 @@
 30	hervörroopm	_	VERB	_	Aspect=Perf|VerbForm=Part	_	_	_	_
 31	wardn	_	AUX	_	VerbForm=Inf	_	_	_	_
 32	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/14
@@ -4342,7 +4229,6 @@
 62	sünt	_	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 63	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/15
 # text = Disse drüdde is en ganz wichtige punct.
@@ -4354,7 +4240,6 @@
 6	wichtige	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 7	punct	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/16
@@ -4411,7 +4296,6 @@
 50	hett	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 51	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/17
 # text = Mi dünkt, op dissen weg let sick wol freude haaln toot fest, un myn lehser ward em mit mi gan.
@@ -4440,7 +4324,6 @@
 21	mi	_	PRON	_	Case=Acc,Dat|Number=Sing|Person=1	_	_	_	_
 22	gan	_	VERB	_	VerbForm=Inf	_	_	_	_
 23	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/18
@@ -4516,7 +4399,6 @@
 69	kun	_	AUX	_	Number=Sing	_	_	_	_
 70	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/19
 # text = S. de bilaag.
@@ -4524,7 +4406,6 @@
 2	de	_	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 3	bilaag	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
 4	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/20
@@ -4535,7 +4416,6 @@
 4	.	_	PUNCT	_	_	_	_	_	_
 5	1516	_	NUM	_	_	_	_	_	_
 6	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/21
@@ -4554,7 +4434,6 @@
 12	danken	_	VERB	_	VerbForm=Inf	_	_	_	_
 13	is	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 14	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/22
@@ -4614,7 +4493,6 @@
 53	karspeln	_	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	_	_	_	Case[regional]=Acc
 54	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/23
 # text = Nu fundn sick twaarns guude lüüd, de de duuf lydn muchtn; se gingen mit fuusthaamers un hellebartn uut, wen se sick bi en kark, tom bispill Wesselburen, setten wull, um ehre Verfolgers aftomöötn, doch hardn disse fründn en gefäärlichen swaaren stand.
@@ -4673,7 +4551,6 @@
 51	stand	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
 52	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/24
 # text = Ahn glykniß: dat seeg damals böös ut.
@@ -4686,7 +4563,6 @@
 7	böös	_	ADJ	_	Degree=Pos	_	_	_	_
 8	ut	_	ADV	_	_	_	_	_	_
 9	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/25
@@ -4745,7 +4621,6 @@
 52	verstehkn	_	VERB	_	VerbForm=Inf	_	_	_	_
 53	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/26
 # text = So seegt eenige jaar in Dithmarschen uut.
@@ -4757,7 +4632,6 @@
 6	Dithmarschen	_	PROPN	_	Number=Sing	_	_	_	_
 7	uut	_	ADV	_	_	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/27
@@ -4803,7 +4677,6 @@
 39	vergeeten	_	VERB	_	VerbForm=Inf	_	_	_	_
 40	mus	_	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 41	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/28
@@ -4915,7 +4788,6 @@
 103	genöögt	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 104	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/29
 # text = Dat eerste Capitel.
@@ -4923,7 +4795,6 @@
 2	eerste	_	ADJ	_	Case=Nom|Degree=Sup|Gender=Neut|Inflection=Weak|Number=Sing	_	_	_	_
 3	Capitel	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
 4	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/30
@@ -4950,7 +4821,6 @@
 18	is	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 19	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/31
 # text = Den Gott bruukn will, weet he allerwehgn to findn un schickt em hierhen un daarhen bet an den rechten oort.
@@ -4976,7 +4846,6 @@
 20	rechten	_	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 21	oort	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
 22	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/32
@@ -5029,7 +4898,6 @@
 46	prehdigen	_	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
 47	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/33
 # text = He bewysde sick fraam un flytig un düchtig, un ging wol uutrüst wedder in syn vaaderland torüg, wo he in Antwerpen toeerst syn licht lüchten leet.
@@ -5062,7 +4930,6 @@
 27	lüchten	_	VERB	_	VerbForm=Inf	_	_	_	_
 28	leet	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 29	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/34
@@ -5117,7 +4984,6 @@
 47	wehsen	_	AUX	_	Aspect=Perf|VerbForm=Part	_	_	_	_
 48	weern	_	AUX	_	Inflection=Strong|Mood=Sub|Number=Plur|Person=3|Tense=Past	_	_	_	Mood[regional]=Ind
 49	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/35
@@ -5177,7 +5043,6 @@
 53	arbeidt	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 54	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/36
 # text = In Dithmarschen höör man van dissen preester, de vernunft segt, da dat land to de tyd mit Bremen in verkeer stunn, de gloof segt, wyl Gottes woord en sarkn Klang hett.
@@ -5218,7 +5083,6 @@
 35	hett	_	VERB	_	Inflection=Strong,Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 36	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/37
 # text = Reine seeln kennt et all an den Klang.
@@ -5231,7 +5095,6 @@
 7	den	_	DET	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Case[regional]=Acc
 8	Klang	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	Case[regional]=Acc
 9	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/38
@@ -5307,7 +5170,6 @@
 68	regyrede.	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 69	“	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/39
 # text = Wat en true Knecht Gottes is, de höört uck gau, wen de Heer röpt, un lett nich lang op sick tööbm.
@@ -5337,7 +5199,6 @@
 24	tööbm	_	VERB	_	VerbForm=Inf	_	_	_	_
 25	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/40
 # text = Henrick entsloot sick dahen to reisn.
@@ -5348,7 +5209,6 @@
 5	to	_	PART	_	PartType=Inf	_	_	_	_
 6	reisn	_	VERB	_	VerbForm=Inf	_	_	_	_
 7	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/41
@@ -5419,14 +5279,12 @@
 64	emfungen	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
 65	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/42
 # text = Dat tweete Capitel
 1	Dat	_	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 2	tweete	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Inflection=Weak|Number=Sing	_	_	_	_
 3	Capitel	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/43
@@ -5450,7 +5308,6 @@
 17	weer	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 18	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/44
 # text = Aber syn fynde raudn uck nich.
@@ -5461,7 +5318,6 @@
 5	uck	_	ADV	_	_	_	_	_	_
 6	nich	_	PART	_	PartType=Neg	_	_	_	_
 7	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/45
@@ -5498,7 +5354,6 @@
 30	woort	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
 31	henkomt	_	VERB	_	Inflection=Strong|Mood=Inf|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 32	“	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/46
@@ -5538,7 +5393,6 @@
 33	weern	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Plur|Person=3|Tense=Past	_	_	_	_
 34	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/47
 # text = He geef an, dat se Henrick van Zütphen nu in Meldorp hardn, de wordt hyr maakn as in Bremen und de ganze landschop verkettern.
@@ -5569,7 +5423,6 @@
 25	landschop	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
 26	verkettern	_	VERB	_	VerbForm=Inf	_	_	_	_
 27	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/48
@@ -5613,7 +5466,6 @@
 37	Günther	_	PROPN	_	Gender=Masc|Number=Sing	_	_	_	_
 38	Warner	_	PROPN	_	Number=Sing	_	_	_	_
 39	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/49
@@ -5674,7 +5526,6 @@
 54	un	_	CCONJ	_	_	_	_	_	_
 55	dergl	_	PRON	_	PronType=Ind	_	_	_	_
 56	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen
 # sent_id = 1817_HOL_den_bloodtuugn_for_unsen_gloobm_henrick_van_zutphen/50
@@ -5748,7 +5599,6 @@
 66	landes	_	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
 67	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/1
 # text = Ower de kunst jesunt te sin von E. Smelzkop.
@@ -5762,7 +5612,6 @@
 8	E.	_	PROPN	_	Number=Sing	_	_	_	_
 9	Smelzkop	_	PROPN	_	Number=Sing	_	_	_	_
 10	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/2
@@ -5790,7 +5639,6 @@
 21	hänget	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 22	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/3
 # text = Bronswik, edrukket bi Friedrich Otto un te hebben bi G. Rademaker.
@@ -5808,7 +5656,6 @@
 12	Rademaker	_	PROPN	_	Number=Sing	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/4
 # text = En volke, vernut leiwen Frünnen tauedacht.
@@ -5821,7 +5668,6 @@
 7	tauedacht	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/5
 # text = Et geiht de ole düwel
@@ -5830,7 +5676,6 @@
 3	de	_	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 4	ole	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Inflection=Weak|Number=Sing	_	_	_	_
 5	düwel	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/6
@@ -5841,7 +5686,6 @@
 4	'rum	_	ADV	_	_	_	_	_	_
 5	;	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/7
 # text = Noch immer makt de klauken
@@ -5851,7 +5695,6 @@
 4	de	_	DET	_	Case=Nom|Definite=Def|Number=Plur|PronType=Art	_	_	_	_
 5	klauken	_	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/8
 # text = De guen lüe dumm;
@@ -5860,7 +5703,6 @@
 3	lüe	_	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_
 4	dumm	_	ADJ	_	Degree=Pos	_	_	_	_
 5	;	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/9
@@ -5872,7 +5714,6 @@
 5	weeren	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/10
 # text = Sau kummt heran de nacht;
@@ -5883,7 +5724,6 @@
 5	nacht	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 6	;	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/11
 # text = Denn döndert et un blitzet,
@@ -5893,7 +5733,6 @@
 4	un	_	CCONJ	_	_	_	_	_	_
 5	blitzet	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/12
@@ -5906,7 +5745,6 @@
 6	kracht	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 7	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/13
 # text = Wer slapen well un drömmen,
@@ -5917,7 +5755,6 @@
 5	drömmen	_	VERB	_	VerbForm=Inf	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/14
 # text = Den kleet et swögen slecht;
@@ -5927,7 +5764,6 @@
 4	swögen	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
 5	slecht	_	ADJ	_	Degree=Pos	_	_	_	_
 6	;	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/15
@@ -5940,7 +5776,6 @@
 6	jubeln	_	VERB	_	VerbForm=Inf	_	_	_	_
 7	,	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/16
 # text = Js hei eworren knecht.
@@ -5949,7 +5784,6 @@
 3	eworren	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 4	knecht	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/17
@@ -5960,7 +5794,6 @@
 4	de	_	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 5	trummel	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 6	,	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/18
@@ -5975,7 +5808,6 @@
 6	sieg	_	VERB	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
 7	;	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/19
 # text = Denn brummt et in en ohren:
@@ -5986,7 +5818,6 @@
 5	en	_	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
 6	ohren	_	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	_	_	_	_
 7	:	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/20
@@ -5999,7 +5830,6 @@
 6	swieg	_	NOUN	_	Inflection=Strong|Mood=Imp|Number=Sing	_	_	_	_
 7	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/21
 # text = Leiwe lantlüe un lantslüe!
@@ -6008,7 +5838,6 @@
 3	un	_	CCONJ	_	_	_	_	_	_
 4	lantslüe	_	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
 5	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/22
@@ -6062,7 +5891,6 @@
 47	grade	_	ADV	_	_	_	_	_	_
 48	dei	_	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	_	_	_	_
 49	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/23
@@ -6163,7 +5991,6 @@
 92	hat	_	VERB	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 93	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/24
 # text = Sau lange de smarzen sik noc zeiget, kann e hopen, dat e wedder bäter wart; kein smarz bedütt dot oder de beste jesuntheit.
@@ -6194,7 +6021,6 @@
 25	beste	_	ADJ	_	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	_	_	_	_
 26	jesuntheit	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 27	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/25
@@ -6269,7 +6095,6 @@
 66	verkomen	_	VERB	_	VerbForm=Inf	_	_	_	_
 67	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/26
 # text = Datau awer hat de minsche sinen körper nich bekomen, dat e smarzen dranne utholen sall — hei hat ne bekomen taur arbeit; ok datau nich, dat e ar en kröppel up er eere herummerwimmern sall — hei sal sik sines lebens freuen!
@@ -6322,7 +6147,6 @@
 46	freuen	_	VERB	_	VerbForm=Inf	_	_	_	_
 47	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/27
 # text = Taur freude is de minsche jeboren!
@@ -6335,7 +6159,6 @@
 5	minsche	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
 6	jeboren	_	VERB	_	Aspect=Perf|Inflection=Strong|VerbForm=Part	_	_	_	_
 7	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/28
@@ -6373,7 +6196,6 @@
 31	wart	_	AUX	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
 32	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/29
 # text = Wat forr en unrecht kann grötter sin ar dat, wenn en minsche en andern unglükklig maket sin lewelank!
@@ -6397,7 +6219,6 @@
 18	sin	_	DET	_	Case=Acc|Gender=Neut|Gender[psor]=Masc|Number=Sing|Number[psor]=Masc|Poss=Yes|PronType=Prs	_	_	_	_
 19	lewelank	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	_
 20	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/30
@@ -6427,7 +6248,6 @@
 23	!	_	PUNCT	_	_	_	_	_	_
 24	“	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/31
 # text = Jü irrt jüch – von sülwest kummet nist!
@@ -6440,7 +6260,6 @@
 7	kummet	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 8	nist	_	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
 9	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/32
@@ -6469,7 +6288,6 @@
 22	nich	_	PART	_	PartType=Neg	_	_	_	_
 23	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/33
 # text = Un de minsche sölle von sülwest krank weeren?
@@ -6482,7 +6300,6 @@
 7	krank	_	ADJ	_	Degree=Pos	_	_	_	_
 8	weeren	_	VERB	_	VerbForm=Inf	_	_	_	_
 9	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/34
@@ -6508,7 +6325,6 @@
 18	te	_	PART	_	PartType=Ind	_	_	_	_
 19	klamüsern	_	VERB	_	VerbForm=Ind	_	_	_	_
 20	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/35
@@ -6547,7 +6363,6 @@
 32	dage	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
 33	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/36
 # text = Wenn de kop nich de wichtigste deil von en minschligen liewe wörre — hei seite forrwahre taun fäuten! –
@@ -6573,7 +6388,6 @@
 19	fäuten	_	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_
 20	!	_	PUNCT	_	_	_	_	_	_
 21	—	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/37
@@ -6632,7 +6446,6 @@
 51	sorgen	_	VERB	_	VerbForm=Inf	_	_	_	_
 52	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/38
 # text = Damidde is de sake nich awemafet, wenn de dokter int hus kummet un seggt: „Wat hett je da wedder forr dumm tüg emaket?!“
@@ -6668,7 +6481,6 @@
 28	!	_	PUNCT	_	_	_	_	_	_
 29	“	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/39
 # text = Et dumme tüg sau ar et klauke tüg hat sinen grunt!
@@ -6684,7 +6496,6 @@
 10	sinen	_	DET	_	Case=Acc|Gender=Masc|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	_	_	_	_
 11	grunt	_	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
 12	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/40
@@ -6702,7 +6513,6 @@
 11	bäter	_	ADJ	_	Degree=Cmp	_	_	_	_
 12	wett	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 13	?	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/41
@@ -6753,7 +6563,6 @@
 31	hett	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 32	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/43
 # text = Wur ofte hört en et noch seggen, wenn en kint krank lieht un en jammer hat:
@@ -6788,7 +6597,6 @@
 25	“	_	PUNCT	_	_	_	_	_	_
 26	–	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/45
 # text = Wenn nist mehr hilpen well – denne sall de dokter hilpen!
@@ -6805,7 +6613,6 @@
 11	hilpen	_	VERB	_	VerbForm=Inf	_	_	_	_
 12	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/46
 # text = Dat is ne schöne jeschichte! — 
@@ -6816,7 +6623,6 @@
 5	jeschichte	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 6	!	_	PUNCT	_	_	_	_	_	_
 7	–	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/47
@@ -6830,7 +6636,6 @@
 7	?	_	PUNCT	_	_	_	_	_	_
 8	–	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/48
 # text = Jü nich, jü wett et nich bäter!
@@ -6843,7 +6648,6 @@
 7	nich	_	PART	_	PartType=Neg	_	_	_	_
 8	bäter	_	ADJ	_	Degree=Cmp	_	_	_	_
 9	!	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/49
@@ -6907,7 +6711,6 @@
 54	!	_	PUNCT	_	_	_	_	_	_
 55	–	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/50
 # text = Un nu wat schieht? – 
@@ -6917,7 +6720,6 @@
 4	schieht	_	VERB	_	Inflection=Strong|Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 5	?	_	PUNCT	_	_	_	_	_	_
 6	–	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/51
@@ -6939,7 +6741,6 @@
 15	hett	_	AUX	_	Inflection=Weak|Mood=Ind|Number=Plur|Person=3|Tense=Pres	_	_	_	_
 16	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/52
 # text = Wur is dat möglich?
@@ -6952,7 +6753,6 @@
 7	?	_	PUNCT	_	_	_	_	_	_
 8	–	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/53
 # text = O jü sint op en holtwege! –
@@ -6964,7 +6764,6 @@
 6	holtwege	_	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
 7	!	_	PUNCT	_	_	_	_	_	_
 8	–	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/54
@@ -7011,7 +6810,6 @@
 40	jesunne	_	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 41	vernunft	_	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
 42	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/55
@@ -7061,7 +6859,6 @@
 42	vertellen	_	VERB	_	VerbForm=Inf	_	_	_	_
 43	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/56
 # text = Mänder awer ar Hufelant hett nich dorch medezin, sondern dorch brave jesinnunge ewirket.
@@ -7080,7 +6877,6 @@
 13	jesinnunge	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
 14	ewirket	_	VERB	_	Aspect=Perf|Inflection=Weak|VerbForm=Part	_	_	_	_
 15	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/57
@@ -7114,7 +6910,6 @@
 27	sik	_	PRON	_	Case=Acc,Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	_	_	_	_
 28	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/58
 # text = Ower de jeschichte mit er medezin swewet noch immer en grot duster.
@@ -7131,7 +6926,6 @@
 11	grot	_	ADJ	_	Case=Nom|Degree=Pos|Inflection=Strong|Number=Sing	_	_	_	_
 12	duster	_	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
 13	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/59
@@ -7197,7 +6991,6 @@
 59	heiten	_	VERB	_	VerbForm=Inf	_	_	_	_
 60	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/60
 # text = Jewiss is nist wider, ar dat de medezin en taustant verändern, in ogenblikk – wenn ok mit schaen von er ganssen natur – rath schaffen un de lesten stunnen von en suren leben verseuten kann; awer jewiss is ok, dat se de kraft hat, krank te maken.
@@ -7254,7 +7047,6 @@
 51	te	_	PART	_	PartType=Inf	_	_	_	_
 52	maken	_	VERB	_	VerbForm=Inf	_	_	_	_
 53	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/61
@@ -7334,7 +7126,6 @@
 72	ok	_	ADV	_	_	_	_	_	_
 73	nich	_	PART	_	PartType=Neg	_	_	_	_
 74	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/62
@@ -7420,7 +7211,6 @@
 78	seihn	_	VERB	_	VerbForm=Inf	_	_	_	_
 79	.	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/63
 # text = Stiddenwis is de waterkur nist wider ewest ar ne spekelatschon op en gräwern von er minschheit.
@@ -7441,7 +7231,6 @@
 15	er	_	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 16	minschheit	_	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
 17	.	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/64
@@ -7503,7 +7292,6 @@
 55	entbehren	_	VERB	_	VerbForm=Inf	_	_	_	_
 56	!	_	PUNCT	_	_	_	_	_	_
 
-
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/65
 # text = Bi jelegenheit makt se ne lanksam dot. – 
@@ -7516,7 +7304,6 @@
 7	dot	_	ADJ	_	Degree=Pos	_	_	_	_
 8	.	_	PUNCT	_	_	_	_	_	_
 9	–	_	PUNCT	_	_	_	_	_	_
-
 
 # source = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin
 # sent_id = 1846_OFL_bronswik_smelzkop_-_ower_de_kunst_jesunt_te_sin/66
@@ -7547,5 +7334,3 @@
 24	sin	_	AUX	_	VerbForm=Inf	_	_	_	_
 25	könne	_	AUX	_	Inflection=Strong|Mood=Sub|Number=Sing|Person=3|Tense=Past	_	_	_	_
 26	!	_	PUNCT	_	_	_	_	_	_
-
-
