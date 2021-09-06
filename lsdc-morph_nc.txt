@@ -3,7 +3,6 @@
 # text = HEruter gy Buren uht Mecklenborg; Holla Vedders, wer iß de Wiessegger under Jug, de nülig, van der Rycks Armedie un mienen gnädigsten Heeren dem Körförsten tho Brandeborg so lichtfardig, un als ehn ehrvergeten Landtverräder gekoltzet hafft?
 1	HEruter	_	ADV	_	_	_	_	_	_
 2	gy	_	PRON	_	Case=NOm|Number=Plur|Person=2|PronType=Prs	_	_	_	_
-2	gy	_	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	_	_	_	_
 3	Buren	_	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
 4	uht	_	ADP	_	AdpType=Prep	_	_	_	_
 5	Mecklenborg	_	PROPN	_	Number=Sing	_	_	_	_
