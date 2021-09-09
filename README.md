@@ -7,6 +7,17 @@ This dataset contains PoS tagged and morphologically annotated data in Low Saxon
 So far, this dataset contains sentences from four German Low Saxon dialects: German North Saxon (Holsatian / Holstein dialect (HOL)), Marchian / Brandenburgish (MAR), Mecklenburgish - West Pomeranian (MKB) and Eastphalian (OFL). These are represented by 50 sentences each, except for the Eastphalian part which contains 66 sentences on the whole since sentences 5–20 are lines from a poem. 
 More dialects will be added in future releases. 
 
+Please, cite the following paper if you use data from this distribution:
+
+```
+@inproceedings{siewert-etal-2021-lsdc-morph,
+	author = "Siewert, Janine and Scherrer, Yves and and Tiedemann, Jörg",
+	title = "Towards a balanced annotated {L}ow {S}axon dataset for diachronic investigation of dialectal variation",
+	year = "2021"
+}
+
+```
+
 
 ## License
 
