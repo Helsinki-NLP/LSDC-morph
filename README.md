@@ -11,7 +11,7 @@ Please, cite the following paper if you use data from this distribution:
 
 ```
 @inproceedings{siewert-etal-2021-lsdc-morph,
-	author = "Siewert, Janine and Scherrer, Yves and and Tiedemann, Jörg",
+	author = "Siewert, Janine and Scherrer, Yves and Tiedemann, Jörg",
 	title = "Towards a balanced annotated {L}ow {S}axon dataset for diachronic investigation of dialectal variation",
 	year = "2021"
 }
