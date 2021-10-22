@@ -10,10 +10,18 @@ More dialects will be added in future releases.
 Please, cite the following paper if you use data from this distribution:
 
 ```
-@inproceedings{siewert-etal-2021-lsdc-morph,
-	author = "Siewert, Janine and Scherrer, Yves and Tiedemann, Jörg",
-	title = "Towards a balanced annotated {L}ow {S}axon dataset for diachronic investigation of dialectal variation",
-	year = "2021"
+@inproceedings{siewert-etal-2021-towards,
+    title = "Towards a balanced annotated Low {S}axon dataset for diachronic investigation of dialectal variation",
+    author = {Siewert, Janine  and
+      Scherrer, Yves  and
+      Tiedemann, J{\"o}rg},
+    booktitle = "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)",
+    month = "6--9 " # sep,
+    year = "2021",
+    address = {D{\"u}sseldorf, Germany},
+    publisher = "KONVENS 2021 Organizers",
+    url = "https://aclanthology.org/2021.konvens-1.25",
+    pages = "242--246",
 }
 
 ```
