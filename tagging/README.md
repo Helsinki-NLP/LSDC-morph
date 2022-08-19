@@ -4,7 +4,7 @@ This dataset contains PoS tagged and morphologically annotated data in Low Saxon
 
 ## Content
 
-This dataset contains sentences from eight Low Saxon dialects: Dutch North Saxon (NNS), German North Saxon (DNS), Dutch Westphalian (NWF), German Westphalian (DWF), Eastphalian (OFL), Marchian / Brandenburgish (BRA), Mecklenburgish - West Pomeranian (MVP) and Low Prussian (NPR).
+This dataset contains sentences from eight Low Saxon dialects: Dutch North Saxon (NNS), German North Saxon (DNS), Dutch Westphalian (NWF), German Westphalian (DWF), Eastphalian (OFL), Marchian / Brandenburgish (BRA), Mecklenburgish - West Pomeranian (MVP) and Low Prussian (NPR). The actual text data for Dutch North Saxon (NNS) in the modern period (1980-2022) could unfortunately not be included, but we still publish the PoS tags and the morphological features. 
 
 Please, cite the following paper if you use data from this distribution:
 
