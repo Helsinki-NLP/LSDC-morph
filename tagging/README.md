@@ -1,6 +1,6 @@
 # LSDC-morph
 
-This dataset contains PoS tagged and morphologically annotated data in Low Saxon dialects from two time periods: 1800-1939 and 1980-2022. Around 900 sentences were annoated manually, the remainder automatically, with an accuary of 92% for PoS tags and 83% for morphological features based on a held-out testset. In our annotation, we follow the CoNLL-U format. 
+This dataset contains PoS tagged and morphologically annotated data in Low Saxon dialects from two time periods: 1800-1939 and 1980-2022. Around 900 sentences were annoated manually, the remainder automatically, with an accuracy of 92% for PoS tags and 83% for morphological features based on a held-out testset. In our annotation, we follow the CoNLL-U format. 
 
 ## Content
 
